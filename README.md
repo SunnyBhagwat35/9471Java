@@ -69,7 +69,6 @@ consider  i =20
   25 < 39                                                                           
   25 <= 39
 
-  r
 9.. Write a Java program to reverse a word. 
   Sample Output:
 
