@@ -74,13 +74,6 @@ consider  i =20
 
   Input a word: dsaf
   Reverse word: fasd
-  Click me to see the solution
-  ----------------------------------------------------
-  core java 
-  40 day interim test 40/8 5
-  35 days mock test
-  135 hours 
-
 
 
 10.  Write a Java program to print the odd numbers from 1 to 99. Prints one number per line. Go to the editor
