@@ -6,7 +6,7 @@ public class ImmutableString {
 		// TODO Auto-generated method stub
 		String s = "Sachin";
 		s = s.concat(" Tendulkar");
-		System.out.print(name);
+		System.out.print(s);
 	}
 
 }
